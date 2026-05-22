@@ -92,6 +92,7 @@ I'm a **Flutter Mobile App Developer** passionate about building practical, user
 - 📜 **Trip History** - Save and reuse past trips
 
 🔗 **[View Repository](https://github.com/QudsiaI/smart_travel_planner)**
+
 ---
 
 ## 📊 What I'm Currently Learning
